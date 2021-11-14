@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>marukun.dev Blog</title>
+    <updated>2021-11-14T03:04:21.465Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>marukun.dev Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[キーキャップ買った]]></title>
+        <id>キーキャップ買った</id>
+        <link href="https://your-docusaurus-test-site.com/blog/キーキャップ買った"/>
+        <updated>2021-11-14T03:04:21.465Z</updated>
+        <summary type="html"><![CDATA[遊舎工房でキーキャップを買ってきました。]]></summary>
+        <author>
+            <name>marukun_</name>
+            <uri>https://github.com/marukun712</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[marukun.dev開設]]></title>
+        <id>marukun.dev開設</id>
+        <link href="https://your-docusaurus-test-site.com/blog/marukun.dev開設"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いろいろやってます。]]></summary>
+        <author>
+            <name>marukun_</name>
+            <uri>https://github.com/marukun712</uri>
+        </author>
+    </entry>
+</feed>

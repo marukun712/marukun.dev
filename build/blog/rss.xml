@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>marukun.dev Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>marukun.dev Blog</description>
+        <lastBuildDate>Sun, 14 Nov 2021 03:04:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[キーキャップ買った]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/キーキャップ買った</link>
+            <guid>キーキャップ買った</guid>
+            <pubDate>Sun, 14 Nov 2021 03:04:21 GMT</pubDate>
+            <description><![CDATA[遊舎工房でキーキャップを買ってきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[marukun.dev開設]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/marukun.dev開設</link>
+            <guid>marukun.dev開設</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[いろいろやってます。]]></description>
+        </item>
+    </channel>
+</rss>
