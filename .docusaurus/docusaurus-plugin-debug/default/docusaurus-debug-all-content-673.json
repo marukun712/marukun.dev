@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\git\\my-website\\sidebars.js",
-          "contentPath": "D:\\git\\my-website\\docs",
-          "contentPathLocalized": "D:\\git\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\git\\marukun.dev\\sidebars.js",
+          "contentPath": "D:\\git\\marukun.dev\\docs",
+          "contentPathLocalized": "D:\\git\\marukun.dev\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "mainDocId": "electronでアプリ開発/create-a-page",
           "sidebars": {
             "tutorialSidebar": [
@@ -262,7 +262,7 @@
             "source": "@site/blog/key/keycaps.md",
             "title": "キーキャップ買った",
             "description": "遊舎工房でキーキャップを買ってきました。",
-            "date": "2021-11-14T02:35:08.366Z",
+            "date": "2021-11-14T03:04:21.465Z",
             "formattedDate": "November 14, 2021",
             "tags": [
               {
