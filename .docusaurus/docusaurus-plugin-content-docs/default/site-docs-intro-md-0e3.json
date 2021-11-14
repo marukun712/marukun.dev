@@ -1,0 +1,20 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "チュートリアル",
+  "description": "アプリ開発やweb開発などのチュートリアルを記載していきます。",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "outguessでお手軽ステガノグラフィー",
+    "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+  }
+}

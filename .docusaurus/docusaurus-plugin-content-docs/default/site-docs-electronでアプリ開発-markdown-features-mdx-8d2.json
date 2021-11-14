@@ -1,0 +1,27 @@
+{
+  "unversionedId": "electronでアプリ開発/markdown-features",
+  "id": "electronでアプリ開発/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs\\electronでアプリ開発\\markdown-features.mdx",
+  "sourceDirName": "electronでアプリ開発",
+  "slug": "/electronでアプリ開発/markdown-features",
+  "permalink": "/docs/electronでアプリ開発/markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "アプリ開発",
+    "permalink": "/docs/electronでアプリ開発/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/electronでアプリ開発/deploy-your-site"
+  }
+}

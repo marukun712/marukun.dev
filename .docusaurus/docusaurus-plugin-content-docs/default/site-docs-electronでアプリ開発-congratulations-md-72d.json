@@ -1,0 +1,27 @@
+{
+  "unversionedId": "electronでアプリ開発/congratulations",
+  "id": "electronでアプリ開発/congratulations",
+  "isDocsHomePage": false,
+  "title": "おわり",
+  "description": "おわり",
+  "source": "@site/docs\\electronでアプリ開発\\congratulations.md",
+  "sourceDirName": "electronでアプリ開発",
+  "slug": "/electronでアプリ開発/congratulations",
+  "permalink": "/docs/electronでアプリ開発/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ビルド",
+    "permalink": "/docs/electronでアプリ開発/deploy-your-site"
+  },
+  "next": {
+    "title": "outguessでお手軽ステガノグラフィー",
+    "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+  }
+}

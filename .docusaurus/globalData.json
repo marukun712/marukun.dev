@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "electronでアプリ開発/create-a-page",
+          "docs": [
+            {
+              "id": "electronでアプリ開発/congratulations",
+              "path": "/docs/electronでアプリ開発/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "electronでアプリ開発/create-a-blog-post",
+              "path": "/docs/electronでアプリ開発/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "electronでアプリ開発/create-a-document",
+              "path": "/docs/electronでアプリ開発/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "electronでアプリ開発/create-a-page",
+              "path": "/docs/electronでアプリ開発/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "electronでアプリ開発/deploy-your-site",
+              "path": "/docs/electronでアプリ開発/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "outguessで遊ぶ/manage-docs-versions",
+              "path": "/docs/outguessで遊ぶ/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

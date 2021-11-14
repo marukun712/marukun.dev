@@ -1,0 +1,38 @@
+{
+  "permalink": "/blog/キーキャップ買った",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/keycaps.md",
+  "source": "@site/blog/keycaps.md",
+  "title": "キーキャップ買った",
+  "description": "遊舎工房でキーキャップを買ってきました。",
+  "date": "2021-11-14T02:37:57.588Z",
+  "formattedDate": "November 14, 2021",
+  "tags": [
+    {
+      "label": "ガジェット",
+      "permalink": "/blog/tags/ガジェット"
+    },
+    {
+      "label": "キーボード",
+      "permalink": "/blog/tags/キーボード"
+    },
+    {
+      "label": "marukun",
+      "permalink": "/blog/tags/marukun"
+    }
+  ],
+  "readingTime": 0.075,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "marukun_",
+      "title": "書いてる人",
+      "url": "https://github.com/marukun712",
+      "imageURL": "https://cdn.discordapp.com/avatars/830704082355617793/ccf203548826ba9550d91676ef1522bd.png?size=80",
+      "key": "marukun"
+    }
+  ],
+  "nextItem": {
+    "title": "キーキャップ買った",
+    "permalink": "/blog/キーキャップ買った"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ステガノグラフィで遊ぶ/create-a-page",
+  "id": "ステガノグラフィで遊ぶ/create-a-page",
+  "isDocsHomePage": false,
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs\\ステガノグラフィで遊ぶ\\create-a-page.md",
+  "sourceDirName": "ステガノグラフィで遊ぶ",
+  "slug": "/ステガノグラフィで遊ぶ/create-a-page",
+  "permalink": "/docs/ステガノグラフィで遊ぶ/create-a-page",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/ステガノグラフィで遊ぶ\\create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/ステガノグラフィで遊ぶ/create-a-document"
+  }
+}

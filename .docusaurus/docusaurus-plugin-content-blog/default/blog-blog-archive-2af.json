@@ -1,0 +1,41 @@
+{
+  "blogPosts": [
+    {
+      "id": "marukun.dev開設",
+      "metadata": {
+        "permalink": "/blog/blog/marukun.dev開設",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+        "source": "@site/blog/2021-08-26-welcome/index.md",
+        "title": "marukun.dev開設",
+        "description": "いろいろやってます。",
+        "date": "2021-08-26T00:00:00.000Z",
+        "formattedDate": "August 26, 2021",
+        "tags": [
+          {
+            "label": "自己紹介",
+            "permalink": "/blog/blog/tags/自己紹介"
+          },
+          {
+            "label": "hello",
+            "permalink": "/blog/blog/tags/hello"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.12,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "marukun_",
+            "title": "書いてる人",
+            "url": "https://github.com/marukun712",
+            "imageURL": "https://cdn.discordapp.com/avatars/830704082355617793/ccf203548826ba9550d91676ef1522bd.png?size=80",
+            "key": "marukun"
+          }
+        ]
+      }
+    }
+  ]
+}

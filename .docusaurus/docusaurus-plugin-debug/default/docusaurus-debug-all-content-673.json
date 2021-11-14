@@ -1,0 +1,426 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\git\\my-website\\sidebars.js",
+          "contentPath": "D:\\git\\my-website\\docs",
+          "contentPathLocalized": "D:\\git\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "electronでアプリ開発/create-a-page",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "electronでアプリ開発",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "electronでアプリ開発/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "electronでアプリ開発/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "electronでアプリ開発/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "electronでアプリ開発/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "electronでアプリ開発/congratulations"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "outguessで遊ぶ",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "outguessで遊ぶ/manage-docs-versions"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "electronでアプリ開発/congratulations",
+              "id": "electronでアプリ開発/congratulations",
+              "isDocsHomePage": false,
+              "title": "おわり",
+              "description": "おわり",
+              "source": "@site/docs\\electronでアプリ開発\\congratulations.md",
+              "sourceDirName": "electronでアプリ開発",
+              "slug": "/electronでアプリ開発/congratulations",
+              "permalink": "/docs/electronでアプリ開発/congratulations",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ビルド",
+                "permalink": "/docs/electronでアプリ開発/deploy-your-site"
+              },
+              "next": {
+                "title": "outguessでお手軽ステガノグラフィー",
+                "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "electronでアプリ開発/create-a-blog-post",
+              "id": "electronでアプリ開発/create-a-blog-post",
+              "isDocsHomePage": false,
+              "title": "アプリ開発",
+              "description": "srcフォルダにindex.html、index.css、index.jsというファイルがあるので編集してアプリを作りましょう。",
+              "source": "@site/docs\\electronでアプリ開発\\create-a-blog-post.md",
+              "sourceDirName": "electronでアプリ開発",
+              "slug": "/electronでアプリ開発/create-a-blog-post",
+              "permalink": "/docs/electronでアプリ開発/create-a-blog-post",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "プロジェクト作成",
+                "permalink": "/docs/electronでアプリ開発/create-a-document"
+              },
+              "next": {
+                "title": "ビルド",
+                "permalink": "/docs/electronでアプリ開発/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "electronでアプリ開発/create-a-document",
+              "id": "electronでアプリ開発/create-a-document",
+              "isDocsHomePage": false,
+              "title": "プロジェクト作成",
+              "description": "`",
+              "source": "@site/docs\\electronでアプリ開発\\create-a-document.md",
+              "sourceDirName": "electronでアプリ開発",
+              "slug": "/electronでアプリ開発/create-a-document",
+              "permalink": "/docs/electronでアプリ開発/create-a-document",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "インストール",
+                "permalink": "/docs/electronでアプリ開発/create-a-page"
+              },
+              "next": {
+                "title": "アプリ開発",
+                "permalink": "/docs/electronでアプリ開発/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "electronでアプリ開発/create-a-page",
+              "id": "electronでアプリ開発/create-a-page",
+              "isDocsHomePage": false,
+              "title": "インストール",
+              "description": "環境",
+              "source": "@site/docs\\electronでアプリ開発\\create-a-page.md",
+              "sourceDirName": "electronでアプリ開発",
+              "slug": "/electronでアプリ開発/create-a-page",
+              "permalink": "/docs/electronでアプリ開発/create-a-page",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "プロジェクト作成",
+                "permalink": "/docs/electronでアプリ開発/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "electronでアプリ開発/deploy-your-site",
+              "id": "electronでアプリ開発/deploy-your-site",
+              "isDocsHomePage": false,
+              "title": "ビルド",
+              "description": "アプリが完成したら、ビルドしましょう。",
+              "source": "@site/docs\\electronでアプリ開発\\deploy-your-site.md",
+              "sourceDirName": "electronでアプリ開発",
+              "slug": "/electronでアプリ開発/deploy-your-site",
+              "permalink": "/docs/electronでアプリ開発/deploy-your-site",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "アプリ開発",
+                "permalink": "/docs/electronでアプリ開発/create-a-blog-post"
+              },
+              "next": {
+                "title": "おわり",
+                "permalink": "/docs/electronでアプリ開発/congratulations"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "チュートリアル",
+              "description": "アプリ開発やweb開発などのチュートリアルを記載していきます。",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "outguessでお手軽ステガノグラフィー",
+                "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "outguessで遊ぶ/manage-docs-versions",
+              "id": "outguessで遊ぶ/manage-docs-versions",
+              "isDocsHomePage": false,
+              "title": "outguessでお手軽ステガノグラフィー",
+              "description": "https://i.gzn.jp/img/2013/12/16/mystery-of-cicada-3301/cicada-32743174cm.jpg",
+              "source": "@site/docs\\outguessで遊ぶ\\manage-docs-versions.md",
+              "sourceDirName": "outguessで遊ぶ",
+              "slug": "/outguessで遊ぶ/manage-docs-versions",
+              "permalink": "/docs/outguessで遊ぶ/manage-docs-versions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/outguessで遊ぶ\\manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "おわり",
+                "permalink": "/docs/electronでアプリ開発/congratulations"
+              },
+              "next": {
+                "title": "チュートリアル",
+                "permalink": "/docs/intro"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "キーキャップ買った",
+          "metadata": {
+            "permalink": "/blog/キーキャップ買った",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/key/keycaps.md",
+            "source": "@site/blog/key/keycaps.md",
+            "title": "キーキャップ買った",
+            "description": "遊舎工房でキーキャップを買ってきました。",
+            "date": "2021-11-14T02:35:08.366Z",
+            "formattedDate": "November 14, 2021",
+            "tags": [
+              {
+                "label": "ガジェット",
+                "permalink": "/blog/tags/ガジェット"
+              },
+              {
+                "label": "キーボード",
+                "permalink": "/blog/tags/キーボード"
+              },
+              {
+                "label": "marukun",
+                "permalink": "/blog/tags/marukun"
+              }
+            ],
+            "readingTime": 0.08,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "marukun_",
+                "title": "書いてる人",
+                "url": "https://github.com/marukun712",
+                "imageURL": "https://cdn.discordapp.com/avatars/830704082355617793/ccf203548826ba9550d91676ef1522bd.png?size=80",
+                "key": "marukun"
+              }
+            ],
+            "nextItem": {
+              "title": "marukun.dev開設",
+              "permalink": "/blog/marukun.dev開設"
+            }
+          }
+        },
+        {
+          "id": "marukun.dev開設",
+          "metadata": {
+            "permalink": "/blog/marukun.dev開設",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "marukun.dev開設",
+            "description": "いろいろやってます。",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "自己紹介",
+                "permalink": "/blog/tags/自己紹介"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "marukun_",
+                "title": "書いてる人",
+                "url": "https://github.com/marukun712",
+                "imageURL": "https://cdn.discordapp.com/avatars/830704082355617793/ccf203548826ba9550d91676ef1522bd.png?size=80",
+                "key": "marukun"
+              }
+            ],
+            "prevItem": {
+              "title": "キーキャップ買った",
+              "permalink": "/blog/キーキャップ買った"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 2,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "キーキャップ買った",
+            "marukun.dev開設"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/ガジェット": {
+          "name": "ガジェット",
+          "items": [
+            "キーキャップ買った"
+          ],
+          "permalink": "/blog/tags/ガジェット"
+        },
+        "/blog/tags/キーボード": {
+          "name": "キーボード",
+          "items": [
+            "キーキャップ買った"
+          ],
+          "permalink": "/blog/tags/キーボード"
+        },
+        "/blog/tags/marukun": {
+          "name": "marukun",
+          "items": [
+            "キーキャップ買った"
+          ],
+          "permalink": "/blog/tags/marukun"
+        },
+        "/blog/tags/自己紹介": {
+          "name": "自己紹介",
+          "items": [
+            "marukun.dev開設"
+          ],
+          "permalink": "/blog/tags/自己紹介"
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "marukun.dev開設"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "marukun.dev開設"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

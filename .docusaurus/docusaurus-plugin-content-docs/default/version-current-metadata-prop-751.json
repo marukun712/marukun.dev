@@ -1,0 +1,64 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "electronでアプリ開発",
+        "items": [
+          {
+            "type": "link",
+            "label": "インストール",
+            "href": "/docs/electronでアプリ開発/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "プロジェクト作成",
+            "href": "/docs/electronでアプリ開発/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "アプリ開発",
+            "href": "/docs/electronでアプリ開発/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "ビルド",
+            "href": "/docs/electronでアプリ開発/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "おわり",
+            "href": "/docs/electronでアプリ開発/congratulations"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "outguessで遊ぶ",
+        "items": [
+          {
+            "type": "link",
+            "label": "outguessでお手軽ステガノグラフィー",
+            "href": "/docs/outguessで遊ぶ/manage-docs-versions"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "チュートリアル",
+        "href": "/docs/intro"
+      }
+    ]
+  }
+}

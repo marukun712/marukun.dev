@@ -1,0 +1,23 @@
+{
+  "unversionedId": "electronでアプリ開発/create-a-page",
+  "id": "electronでアプリ開発/create-a-page",
+  "isDocsHomePage": false,
+  "title": "インストール",
+  "description": "環境",
+  "source": "@site/docs\\electronでアプリ開発\\create-a-page.md",
+  "sourceDirName": "electronでアプリ開発",
+  "slug": "/electronでアプリ開発/create-a-page",
+  "permalink": "/docs/electronでアプリ開発/create-a-page",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "プロジェクト作成",
+    "permalink": "/docs/electronでアプリ開発/create-a-document"
+  }
+}

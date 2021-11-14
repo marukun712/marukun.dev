@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ステガノグラフィで遊ぶ/congratulations",
+  "id": "ステガノグラフィで遊ぶ/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs\\ステガノグラフィで遊ぶ\\congratulations.md",
+  "sourceDirName": "ステガノグラフィで遊ぶ",
+  "slug": "/ステガノグラフィで遊ぶ/congratulations",
+  "permalink": "/docs/ステガノグラフィで遊ぶ/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/ステガノグラフィで遊ぶ\\congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/ステガノグラフィで遊ぶ/deploy-your-site"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+  }
+}

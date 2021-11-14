@@ -1,0 +1,27 @@
+{
+  "unversionedId": "electronでアプリ開発/create-a-blog-post",
+  "id": "electronでアプリ開発/create-a-blog-post",
+  "isDocsHomePage": false,
+  "title": "アプリ開発",
+  "description": "srcフォルダにindex.html、index.css、index.jsというファイルがあるので編集してアプリを作りましょう。",
+  "source": "@site/docs\\electronでアプリ開発\\create-a-blog-post.md",
+  "sourceDirName": "electronでアプリ開発",
+  "slug": "/electronでアプリ開発/create-a-blog-post",
+  "permalink": "/docs/electronでアプリ開発/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/electronでアプリ開発\\create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "プロジェクト作成",
+    "permalink": "/docs/electronでアプリ開発/create-a-document"
+  },
+  "next": {
+    "title": "ビルド",
+    "permalink": "/docs/electronでアプリ開発/deploy-your-site"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "outguessで遊ぶ/translate-your-site",
+  "id": "outguessで遊ぶ/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs\\outguessで遊ぶ\\translate-your-site.md",
+  "sourceDirName": "outguessで遊ぶ",
+  "slug": "/outguessで遊ぶ/translate-your-site",
+  "permalink": "/docs/outguessで遊ぶ/translate-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/outguessで遊ぶ\\translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "outguessでお手軽ステガノグラフィー",
+    "permalink": "/docs/outguessで遊ぶ/manage-docs-versions"
+  },
+  "next": {
+    "title": "チュートリアル",
+    "permalink": "/docs/intro"
+  }
+}

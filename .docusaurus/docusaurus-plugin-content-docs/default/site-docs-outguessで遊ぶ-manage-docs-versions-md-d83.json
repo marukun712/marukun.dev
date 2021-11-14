@@ -1,0 +1,27 @@
+{
+  "unversionedId": "outguessで遊ぶ/manage-docs-versions",
+  "id": "outguessで遊ぶ/manage-docs-versions",
+  "isDocsHomePage": false,
+  "title": "outguessでお手軽ステガノグラフィー",
+  "description": "https://i.gzn.jp/img/2013/12/16/mystery-of-cicada-3301/cicada-32743174cm.jpg",
+  "source": "@site/docs\\outguessで遊ぶ\\manage-docs-versions.md",
+  "sourceDirName": "outguessで遊ぶ",
+  "slug": "/outguessで遊ぶ/manage-docs-versions",
+  "permalink": "/docs/outguessで遊ぶ/manage-docs-versions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/outguessで遊ぶ\\manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "おわり",
+    "permalink": "/docs/electronでアプリ開発/congratulations"
+  },
+  "next": {
+    "title": "チュートリアル",
+    "permalink": "/docs/intro"
+  }
+}

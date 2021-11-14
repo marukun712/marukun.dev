@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/marukun.dev開設",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-11-12-start/index.md",
+  "source": "@site/blog/2021-11-12-start/index.md",
+  "title": "marukun.dev開設",
+  "description": "てすてすtesttesttesutesu",
+  "date": "2021-11-12T00:00:00.000Z",
+  "formattedDate": "November 12, 2021",
+  "tags": [
+    {
+      "label": "開設",
+      "permalink": "/blog/tags/開設"
+    },
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.045,
+  "truncated": false,
+  "authors": []
+}
