@@ -12,7 +12,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "D:\\git\\my-website\\sidebars.js",
+          "sidebarPath": "D:\\git\\marukun.dev\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -20,7 +20,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "D:\\git\\my-website\\src\\css\\custom.css"
+          "customCss": "D:\\git\\marukun.dev\\src\\css\\custom.css"
         }
       }
     ]
