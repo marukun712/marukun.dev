@@ -3,7 +3,7 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "marukun.dev開設",
-  "description": "いろいろやってます。",
+  "description": "hi.",
   "date": "2021-08-26T00:00:00.000Z",
   "formattedDate": "August 26, 2021",
   "tags": [
@@ -20,19 +20,15 @@
       "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "readingTime": 0.12,
+  "readingTime": 0.005,
   "truncated": false,
   "authors": [
     {
       "name": "marukun_",
       "title": "書いてる人",
       "url": "https://github.com/marukun712",
-      "imageURL": "https://cdn.discordapp.com/avatars/830704082355617793/ccf203548826ba9550d91676ef1522bd.png?size=80",
+      "imageURL": "https://avatars.githubusercontent.com/u/87289638?v=4",
       "key": "marukun"
     }
-  ],
-  "prevItem": {
-    "title": "キーキャップ買った",
-    "permalink": "/blog/キーキャップ買った"
-  }
+  ]
 }

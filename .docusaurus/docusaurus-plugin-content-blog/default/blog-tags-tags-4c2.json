@@ -1,25 +1,4 @@
 {
-  "/blog/tags/ガジェット": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/ガジェット",
-    "name": "ガジェット",
-    "count": 1,
-    "permalink": "/blog/tags/ガジェット"
-  },
-  "/blog/tags/キーボード": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/キーボード",
-    "name": "キーボード",
-    "count": 1,
-    "permalink": "/blog/tags/キーボード"
-  },
-  "/blog/tags/marukun": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/marukun",
-    "name": "marukun",
-    "count": 1,
-    "permalink": "/blog/tags/marukun"
-  },
   "/blog/tags/自己紹介": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/自己紹介",

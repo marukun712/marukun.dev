@@ -66,32 +66,11 @@ export default {
         },
         {
           "title": "social",
-          "items": [
-            {
-              "label": "Discord",
-              "href": "https://discord.gg/NW2Zjfrv32"
-            },
-            {
-              "label": "reddit",
-              "href": "https://www.reddit.com/user/marukun_"
-            },
-            {
-              "label": "steam",
-              "href": "https://steamcommunity.com/profiles/76561199089855020"
-            },
-            {
-              "label": "spotify",
-              "href": "https://open.spotify.com/user/e7q8owlqazx2fk3qvrm7ez79l"
-            }
-          ]
+          "items": []
         },
         {
           "title": "More",
           "items": [
-            {
-              "label": "Blog",
-              "href": "https://marukun712.github.io/marukun-blog/"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/marukun712"
@@ -99,7 +78,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 marukun-dev"
+      "copyright": "Copyright © 2022 marukun-dev"
     },
     "prism": {
       "theme": {

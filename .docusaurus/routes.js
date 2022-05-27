@@ -10,7 +10,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','3cf'),
+    component: ComponentCreator('/blog','0d3'),
     exact: true
   },
   {
@@ -39,28 +39,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/marukun',
-    component: ComponentCreator('/blog/tags/marukun','c3a'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/ガジェット',
-    component: ComponentCreator('/blog/tags/ガジェット','562'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/キーボード',
-    component: ComponentCreator('/blog/tags/キーボード','b32'),
-    exact: true
-  },
-  {
     path: '/blog/tags/自己紹介',
     component: ComponentCreator('/blog/tags/自己紹介','c10'),
-    exact: true
-  },
-  {
-    path: '/blog/キーキャップ買った',
-    component: ComponentCreator('/blog/キーキャップ買った','fa2'),
     exact: true
   },
   {
